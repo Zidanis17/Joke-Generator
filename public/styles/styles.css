@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #121212;
+    color: #E0E0E0;
+  }
+
+.container-fluid{
+    margin-top: 5vh;
+    background-color: #121212;
+    color: #E0E0E0;
+  }
+
+.title-text{
+    padding-top: 8vh;
+}
+
+.select-text{
+    margin-top: 8vh;
+    margin-bottom: 4vh;
+}
+
+.joke-text{
+    margin-top: 8vh;
+}
+
+.generate-button{
+    margin-top: 15vh;
+}
